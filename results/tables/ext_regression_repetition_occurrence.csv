@@ -1,0 +1,3 @@
+variable,OR,95% CI,p
+log_rep,0.47,0.36 to 0.62,4.35e-08
+log_steps,4.37,2.58 to 7.42,4.31e-08

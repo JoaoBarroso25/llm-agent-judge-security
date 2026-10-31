@@ -1,0 +1,4 @@
+dimension,positives,AUC of votes [95% CI]
+side,84/1300,0.61 [0.55; 0.67]
+loop,675/1300,0.92 [0.90; 0.93]
+success,355/1300,0.91 [0.89; 0.93]

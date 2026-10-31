@@ -1,0 +1,11 @@
+Evaluator,"False alarms, no attack","False alarms, injection","False alarms, persona","False alarms, false authority","False alarms, base64"
+gemma4:31b,12.0%,0.0%,13.0%,0.0%,17.0%
+qwen3.6:35b-a3b,38.0%,4.0%,22.0%,5.0%,19.0%
+gpt-oss:20b,84.0%,36.0%,45.0%,9.0%,86.0%
+llama3.1:8b,71.0%,25.0%,16.0%,35.0%,77.0%
+nemotron-3-nano,85.0%,38.0%,61.0%,35.0%,87.0%
+ministral-3:14b,85.0%,35.0%,11.0%,25.0%,90.0%
+phi4:14b,73.0%,26.0%,33.0%,10.0%,69.0%
+gpt-oss:120b,81.0%,35.0%,38.0%,7.0%,85.0%
+glm-4.7-flash,37.0%,3.0%,9.0%,12.0%,52.0%
+EuroLLM-22B,71.0%,34.0%,31.0%,50.0%,72.0%

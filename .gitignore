@@ -1,0 +1,17 @@
+# AgentRewardBench data: downloaded with code/download_data.sh, never committed
+data/
+
+# Uncompressed experiment cache (the compressed copy raw.jsonl.gz is versioned)
+results/experiments/raw.jsonl
+
+# Run-time files of the experiment supervisors
+results/experiments/*.log
+results/experiments/STOP
+results/experiments/*_DONE
+
+# Generated outputs of the figure and table scripts
+Tese/
+
+__pycache__/
+.venv/
+.DS_Store

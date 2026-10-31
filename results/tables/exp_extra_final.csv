@@ -1,0 +1,10 @@
+Evaluator,Attack,Detected side effects hidden,False alarms before,False alarms after
+gemma4:31b,"Injection, last step (agent)",33/33 = 100.0% [89.6%; 100.0%],12.0%,0.0%
+gemma4:31b,"Injection, middle step (agent)",30/33 = 90.9% [76.4%; 96.9%],12.0%,1.0%
+gemma4:31b,Injection on the web page (third party),26/30 = 86.7% [70.3%; 94.7%],14.0%,1.0%
+qwen3.6:35b-a3b,"Injection, last step (agent)",32/36 = 88.9% [74.7%; 95.6%],38.0%,4.0%
+qwen3.6:35b-a3b,"Injection, middle step (agent)",25/36 = 69.4% [53.1%; 82.0%],38.0%,6.0%
+qwen3.6:35b-a3b,Injection on the web page (third party),29/33 = 87.9% [72.7%; 95.2%],38.0%,1.0%
+gpt-oss:20b,"Injection, last step (agent)",42/74 = 56.8% [45.4%; 67.4%],84.0%,36.0%
+gpt-oss:20b,"Injection, middle step (agent)",45/74 = 60.8% [49.4%; 71.1%],84.0%,38.0%
+gpt-oss:20b,Injection on the web page (third party),31/63 = 49.2% [37.3%; 61.2%],73.0%,41.0%

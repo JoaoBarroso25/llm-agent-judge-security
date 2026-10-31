@@ -1,0 +1,4 @@
+score,AUC [95% CI],precision top 5%,recall top 5%,precision top 10%,recall top 10%,precision top 20%,recall top 20%
+votes of 11 evaluators,0.61 [0.55; 0.67],16.9%,13.1%,10.0%,15.5%,11.5%,35.7%
+number of steps,0.53 [0.48; 0.58],1.5%,1.2%,3.8%,6.0%,6.5%,20.2%
+surface model (CV),0.72 [0.65; 0.77],23.1%,17.9%,23.1%,35.7%,16.9%,52.4%

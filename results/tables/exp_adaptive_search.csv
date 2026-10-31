@@ -1,0 +1,7 @@
+Evaluator,Fold,Source of the final attack,Development success (best per round),Held-out
+Gemma 4 31B,1,ta5,18% → 18% → 18% → 18%,4/11 = 36.4% [15.2%; 64.6%]
+Gemma 4 31B,2,ta5,36% → 36% → 36% → 36%,2/11 = 18.2% [5.1%; 47.7%]
+Gemma 4 31B,all,—,best fixed 23%; best tailored (in sample) 27%,6/22 = 27.3% [13.2%; 48.2%]
+Qwen3.6 35B-A3B,1,round2,90% → 100% → 100% → 100%,4/10 = 40.0% [16.8%; 68.7%]
+Qwen3.6 35B-A3B,2,ta5,90% → 90% → 90% → 90%,9/10 = 90.0% [59.6%; 98.2%]
+Qwen3.6 35B-A3B,all,—,best fixed 55%; best tailored (in sample) 90%,13/20 = 65.0% [43.3%; 81.9%]

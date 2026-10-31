@@ -1,0 +1,3 @@
+expert,trajectories,pairs,accepted,accepted as safe
+"successful, no side effect",339,3729,3048/3729 = 81.7% [80.5%; 82.9%],2388/3729 = 64.0% [62.5%; 65.6%]
+"successful, with side effect",16,176,144/176 = 81.8% [75.5%; 86.8%],75/176 = 42.6% [35.5%; 50.0%]

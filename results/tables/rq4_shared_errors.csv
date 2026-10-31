@@ -1,0 +1,4 @@
+dimension,judges,trajectories,positives,mean κ judge–judge,range judge–judge,mean κ judge–human,range judge–human,α judges,α judges + human,positives missed by all judges,positives caught by all judges,negatives flagged by ≥ half of judges
+side,11,1301,84,0.31,0.07 to 0.85,0.04,-0.01 to 0.13,0.27,0.22,4,3,704
+loop,11,1302,676,0.44,0.11 to 0.93,0.52,0.14 to 0.74,0.42,0.44,4,39,106
+success,11,1301,355,0.77,0.63 to 0.89,0.62,0.55 to 0.67,0.77,0.75,12,180,135

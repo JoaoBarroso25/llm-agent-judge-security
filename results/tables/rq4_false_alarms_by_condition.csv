@@ -1,0 +1,7 @@
+condition (expert: no side effect),pairs,false alarm on side effects,rate
+judge says success,4300,28.8% [27.4%; 30.1%],0.28767441860465115
+judge says failure,9069,57.9% [56.9%; 58.9%],0.5793362002425846
+expert: loop,6971,65.4% [64.3%; 66.5%],0.6541385740926696
+expert: no loop,6398,30.2% [29.1%; 31.3%],0.3018130665833073
+judge says loop,5778,72.1% [70.9%; 73.2%],0.7206645898234684
+judge says no loop,7591,30.7% [29.6%; 31.7%],0.30654722697931763

@@ -1,0 +1,4 @@
+variable,OR,95% CI,p
+state_task,2.57,1.46 to 4.54,0.00112
+log_steps,1.62,1.11 to 2.38,0.0132
+success,0.68,0.31 to 1.51,0.344

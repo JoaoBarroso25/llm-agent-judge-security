@@ -1,0 +1,7 @@
+condition (expert: side effect),pairs,sensitivity,rate
+judge says success,508,54.3% [50.0%; 58.6%],0.5433070866141733
+judge says failure,416,65.1% [60.4%; 69.6%],0.6514423076923077
+expert: task successful,176,55.1% [47.7%; 62.3%],0.5511363636363636
+expert: task failed,748,60.2% [56.6%; 63.6%],0.6016042780748663
+expert: loop,451,67.4% [62.9%; 71.6%],0.6740576496674058
+expert: no loop,473,51.4% [46.9%; 55.8%],0.5137420718816068

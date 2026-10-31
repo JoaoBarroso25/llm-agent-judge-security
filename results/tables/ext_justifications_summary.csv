@@ -1,0 +1,3 @@
+alarms,n,repetition only,repetition only_rate,state change only,state change only_rate,both,both_rate,neither,neither_rate,any repetition cue,any state-change cue
+false alarms (expert: no side effect),6492,65.8% [64.6%; 66.9%],0.65788662969809,4.1% [3.6%; 4.6%],0.04066543438077634,15.5% [14.6%; 16.4%],0.15480591497227356,14.7% [13.8%; 15.5%],0.14664202094886014,81.3%,19.5%
+true detections (expert: side effect),547,49.2% [45.0%; 53.4%],0.49177330895795246,7.5% [5.6%; 10.0%],0.07495429616087751,25.4% [21.9%; 29.2%],0.25411334552102377,17.9% [14.9%; 21.3%],0.17915904936014626,74.6%,32.9%

@@ -1,0 +1,12 @@
+judge_name,tp,fp,fn,alarms_per_true
+Claude 3.7 Sonnet (AXTree),29,174,55,7.0
+Claude 3.7 Sonnet (screenshot),37,223,47,7.027027027027027
+Qwen2.5-VL (screenshot),48,502,36,11.458333333333334
+Qwen2.5-VL (AXTree),44,471,40,11.704545454545455
+GPT-4o (AXTree),77,930,7,13.077922077922079
+GPT-4o (screenshot),76,944,8,13.421052631578947
+GPT-4o mini (actions only),63,826,21,14.11111111111111
+GPT-4o mini (AXTree),58,772,26,14.310344827586206
+Llama 3.3 70B (AXTree),65,901,19,14.861538461538462
+GPT-4o mini (screenshot),26,366,58,15.076923076923077
+GPT-4o mini (AXTree + screenshot),24,383,60,16.958333333333332

@@ -1,0 +1,16 @@
+dimension,rule,sensitivity,false alarms,precision,κ [95% CI],AC1,kappa
+side,best single judge (Claude 3.7 Sonnet (screenshot)),44.0%,18.3%,14.2%,0.13 [0.07; 0.19],0.73,0.13022700711130442
+side,majority vote (all),69.0%,57.8%,7.6%,0.02 [0.00; 0.04],0.00,0.023544410515817935
+side,any judge flags (OR),95.2%,84.8%,7.2%,0.02 [0.01; 0.02],-0.58,0.015588892621861257
+side,all judges flag (AND),3.6%,1.4%,15.0%,0.03 [-0.02; 0.10],0.92,0.03369611350269835
+side,"majority of 3 providers (Claude, GPT-4o, Qwen; AXTree)",60.7%,43.9%,8.7%,0.04 [0.02; 0.07],0.29,0.044582943158107735
+loop,best single judge (Claude 3.7 Sonnet (AXTree)),94.8%,20.9%,83.0%,0.74 [0.71; 0.78],0.75,0.7431745156567866
+loop,majority vote (all),85.7%,16.9%,84.5%,0.69 [0.65; 0.73],0.69,0.6875453657752317
+loop,any judge flags (OR),99.4%,38.5%,73.6%,0.62 [0.58; 0.66],0.64,0.6177480701064826
+loop,all judges flag (AND),5.8%,0.3%,95.1%,0.05 [0.03; 0.07],0.18,0.052526927395678394
+loop,"majority of 3 providers (Claude, GPT-4o, Qwen; AXTree)",95.6%,20.9%,83.1%,0.75 [0.71; 0.79],0.76,0.7508362038839798
+success,best single judge (GPT-4o (AXTree)),83.4%,12.9%,70.8%,0.67 [0.62; 0.71],0.76,0.6678186976031643
+success,majority vote (all),85.9%,14.3%,69.3%,0.67 [0.62; 0.71],0.75,0.6665927870396663
+success,any judge flags (OR),96.6%,29.6%,55.1%,0.54 [0.50; 0.58],0.58,0.5423252631173138
+success,all judges flag (AND),50.7%,5.7%,76.9%,0.50 [0.45; 0.56],0.73,0.5035749455551871
+success,"majority of 3 providers (Claude, GPT-4o, Qwen; AXTree)",86.8%,14.0%,70.0%,0.68 [0.63; 0.72],0.76,0.6774059939464879

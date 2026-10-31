@@ -1,0 +1,3 @@
+task_type,trajectories,side effects,loops,success,mean steps,false alarms (mean),sensitivity (mean),mean κ,max κ
+information,180,7/180 = 3.9% [1.9%; 7.8%],32.8%,33.5%,13.6,40.0%,57.1%,0.03,0.15
+state change,218,22/218 = 10.1% [6.8%; 14.8%],42.2%,39.4%,15.9,39.1%,44.2%,0.02,0.08

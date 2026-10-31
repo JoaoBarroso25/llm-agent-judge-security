@@ -1,0 +1,4 @@
+dimension,n,positives (1st),positives (2nd),raw agreement,kappa,kappa 95% CI,AC1
+success,105,39,39,88.6%,0.76,0.61 to 0.88,0.79
+side,106,5,7,96.2%,0.65,0.20 to 0.92,0.96
+loop,106,38,35,89.6%,0.77,0.63 to 0.89,0.81

@@ -1,0 +1,5 @@
+variable,OR,95% CI,p
+j_success,0.91,0.58 to 1.40,0.66
+success,1.86,0.76 to 4.53,0.174
+loop,1.02,0.59 to 1.78,0.933
+log_steps,6.00,3.32 to 10.86,3.18e-09

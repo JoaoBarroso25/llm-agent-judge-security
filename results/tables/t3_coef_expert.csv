@@ -1,0 +1,11 @@
+variable,OR,95% CI,p
+log_steps,3.69,1.41 to 9.67,0.008
+log_rep,0.71,0.49 to 1.03,0.0702
+log_urls,3.10,1.98 to 4.84,6.74e-07
+at_limit,0.45,0.16 to 1.29,0.137
+log_fill,1.02,0.79 to 1.32,0.879
+log_select,1.47,0.95 to 2.26,0.0854
+log_nav,0.69,0.39 to 1.24,0.218
+log_scroll,1.31,1.00 to 1.72,0.0535
+final_msg,1.17,0.54 to 2.52,0.689
+final_infeasible,5.31,2.04 to 13.87,0.000644

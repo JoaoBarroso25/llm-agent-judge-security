@@ -1,0 +1,4 @@
+dimension,trajectories,positives (1st expert),κ second expert,κ best evaluator,κ mean evaluator,second expert − best evaluator [95% CI]
+side,106,5,0.65,0.14 (Claude 3.7 Sonnet (screenshot)),0.03,0.51 [0.14; 0.83]
+loop,106,38,0.77,0.82 (GPT-4o (screenshot)),0.56,-0.05 [-0.17; 0.06]
+success,105,39,0.76,0.65 (GPT-4o (screenshot)),0.61,0.10 [-0.07; 0.27]

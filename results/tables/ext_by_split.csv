@@ -1,0 +1,4 @@
+split,trajectories,positives,mean κ side,max κ side
+dev,156,11,0.01,0.12
+test,814,47,0.03,0.12
+unknown,331,26,0.06,0.18

@@ -1,0 +1,5 @@
+Condition,Sensitivity,False alarms,κ (population)
+"Original prompt, default",39.3%,17.3%,0.12
+"Original prompt, temperature 0",29.8%,16.9%,0.07
+"Guided prompt, default",26.2%,4.5%,0.23
+"Guided prompt, temperature 0",29.8%,4.9%,0.25

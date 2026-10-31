@@ -1,0 +1,351 @@
+benchmark,agent,task_id,side,success,loop,n_steps,bench_name,agent_name,weight
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.date-based-expense-management-large-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.infeasible-navigate-and-order-loaner-laptop-l2,1.0,0.0,0,30,WorkArena,GPT-4o,1.0
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.299,0.0,1.0,0,7,VisualWebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.778,0.0,0.0,1,30,WebArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.426,0.0,0.0,0,2,WebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.filter-service-catalog-item-list,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.601,1.0,0.0,0,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.30,0.0,1.0,1,16,AssistantBench,GPT-4o,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.769,1.0,0.0,0,30,WebArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.dashboard-retrieve-incident-and-max-request-google-nexus7-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+assistantbench,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,assistantbench.improved.validation.17,0.0,0.0,1,30,AssistantBench,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.filter-three-items-uniform-expenses-find-total-return-and-select-investments-large-l2,1.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,1.0
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.569,0.0,0.0,0,30,VisualWebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.303,0.0,1.0,0,2,VisualWebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.15,0.0,0.0,1,30,WebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.order-development-laptop-p-c,0.0,1.0,0,5,WorkArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.dashboard-retrieve-catalog-and-mean-order-loaner-laptop-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.725,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.453,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.491,1.0,0.0,1,14,WebArena,Qwen2.5-VL 72B,1.0
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.569,0.0,0.0,0,5,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.153,0.0,1.0,0,12,WebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.navigate-and-order-development-laptop-p-c-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.300,0.0,0.0,1,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.414,0.0,0.0,1,22,VisualWebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.623,0.0,1.0,0,6,WebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.265,0.0,0.0,0,6,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.245,0.0,1.0,0,2,VisualWebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.infeasible-navigate-and-create-user-l2,0.0,1.0,0,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.infeasible-navigate-and-create-incident-with-reason-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.multi-chart-min-max-retrieval,0.0,1.0,0,2,WorkArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.dashboard-retrieve-incident-and-max-request-google-nexus7-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.infeasible-navigate-and-order-development-laptop-p-c-with-reason-l2,0.0,1.0,0,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.327,0.0,0.0,0,5,WebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.710,0.0,1.0,0,7,WebArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.navigate-and-filter-service-catalog-item-list-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.dashboard-retrieve-incident-and-median-lesser-filter-incident-list-l2,1.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,1.0
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.769,0.0,0.0,0,7,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.876,1.0,0.0,1,15,VisualWebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.infeasible-navigate-and-create-change-request-with-reason-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.385,0.0,0.0,0,2,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.12,1.0,0.0,1,30,AssistantBench,GPT-4o,1.0
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.153,0.0,1.0,0,5,WebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.69,0.0,1.0,0,3,WebArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.599,0.0,0.0,1,30,WebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.758,0.0,1.0,0,5,WebArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.infeasible-navigate-and-order-loaner-laptop-l2,1.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.infeasible-navigate-and-sort-service-catalog-item-list-with-reason-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.297,0.0,0.0,1,30,VisualWebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.filter-three-items-uniform-expenses-and-find-total-return-medium-l2,0.0,1.0,0,9,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.filter-three-items-uniform-expenses-find-total-return-and-select-investments-large-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.279,0.0,0.0,1,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.623,0.0,1.0,0,6,WebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.419,1.0,0.0,1,30,VisualWebArena,GPT-4o,1.0
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.171,0.0,0.0,0,3,WebArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.infeasible-navigate-and-order-loaner-laptop-with-reason-l2,1.0,0.0,0,30,WorkArena,GPT-4o,1.0
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.723,0.0,0.0,0,12,WebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.455,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.64,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.infeasible-navigate-and-create-incident-with-reason-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.555,1.0,0.0,0,11,WebArena,Claude 3.7 Sonnet,1.0
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.289,0.0,0.0,1,30,WebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.infeasible-navigate-and-order-loaner-laptop-with-reason-l2,1.0,0.0,1,30,WorkArena,Llama 3.3 70B,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.two-changes-wide-basic-varied-risk-change-request-scheduling-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.730,0.0,0.0,0,30,WebArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.730,1.0,0.0,0,4,VisualWebArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.268,0.0,0.0,1,30,WebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.586,1.0,0.0,0,12,WebArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.filter-requested-items-and-order-apple-watch-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.604,0.0,0.0,1,30,WebArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.high-priority-filter-problems-and-mark-duplicates-medium-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.730,0.0,1.0,0,6,VisualWebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.288,1.0,0.0,0,30,VisualWebArena,GPT-4o,1.0
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.three-changes-wide-schedule-tight-uniform-risk-change-request-scheduling-l2,1.0,0.0,0,30,WorkArena,Claude 3.7 Sonnet,1.0
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.0,0.0,1.0,0,3,AssistantBench,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.dashboard-retrieve-catalog-and-mode-order-apple-macbook-pro15-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.order-apple-watch,0.0,1.0,0,5,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.infeasible-navigate-and-sort-service-catalog-item-list-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.dashboard-retrieve-catalog-and-max-order-apple-macbook-pro15-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.789,1.0,0.0,0,10,WebArena,Claude 3.7 Sonnet,1.0
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.220,1.0,0.0,1,30,VisualWebArena,GPT-4o,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.sort-service-catalog-item-list,0.0,0.0,0,30,WorkArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.dashboard-retrieve-incident-and-max-request-apple-iphone13-l2,0.0,0.0,0,30,WorkArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.739,0.0,1.0,0,7,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.filter-random-expenses-and-select-investments-large-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+assistantbench,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,assistantbench.improved.validation.3,0.0,0.0,0,30,AssistantBench,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.295,0.0,0.0,1,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+assistantbench,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,assistantbench.improved.validation.5,0.0,0.0,1,30,AssistantBench,Llama 3.3 70B,4.575187969924812
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.20,0.0,1.0,0,9,AssistantBench,GPT-4o,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.427,0.0,0.0,0,3,WebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.701,0.0,0.0,1,30,WebArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.navigate-and-sort-service-catalog-item-list-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.325,0.0,0.0,1,30,WebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.dashboard-retrieve-incident-and-max-request-galaxy-note20-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.filter-requested-items-and-order-apple-watch-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+assistantbench,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,assistantbench.improved.validation.12,0.0,0.0,1,30,AssistantBench,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.468,0.0,0.0,1,30,WebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.322,0.0,0.0,0,2,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.776,0.0,0.0,1,30,WebArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.698,1.0,0.0,1,30,WebArena,Llama 3.3 70B,1.0
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.690,1.0,1.0,1,10,WebArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.655,1.0,0.0,0,5,WebArena,Llama 3.3 70B,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.infeasible-navigate-and-create-hardware-asset-with-reason-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.723,0.0,0.0,0,5,WebArena,Claude 3.7 Sonnet,4.575187969924812
+assistantbench,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,assistantbench.improved.validation.15,0.0,0.0,1,30,AssistantBench,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.three-changes-fix-wide-basic-varied-risk-change-request-scheduling-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.two-changes-wide-basic-varied-risk-change-request-scheduling-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.789,1.0,0.0,1,17,WebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.filter-user-list,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+assistantbench,GenericAgent-anthropic_claude-3.7-sonnet,assistantbench.improved.validation.20,0.0,1.0,0,8,AssistantBench,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.890,0.0,1.0,0,1,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.on-board-user-l2,0.0,0.0,0,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.infeasible-navigate-and-sort-hardware-list-with-reason-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.331,0.0,0.0,1,17,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.28,1.0,0.0,0,30,VisualWebArena,Claude 3.7 Sonnet,1.0
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.718,1.0,0.0,0,10,WebArena,GPT-4o,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.598,0.0,0.0,0,3,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.27,1.0,0.0,0,5,WebArena,Qwen2.5-VL 72B,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.245,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.filter-requested-items-and-order-standard-laptop-l2,1.0,0.0,0,30,WorkArena,Claude 3.7 Sonnet,1.0
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.468,0.0,1.0,0,4,WebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.764,0.0,0.0,1,9,WebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.776,0.0,0.0,0,8,WebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.infeasible-navigate-and-order-loaner-laptop-l2,1.0,0.0,0,30,WorkArena,Llama 3.3 70B,1.0
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.navigate-and-sort-service-catalog-item-list-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.299,0.0,0.0,1,9,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.642,0.0,0.0,1,30,WebArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.414,1.0,1.0,0,6,WebArena,Qwen2.5-VL 72B,1.0
+assistantbench,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,assistantbench.improved.validation.0,1.0,0.0,0,11,AssistantBench,Llama 3.3 70B,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.dashboard-retrieve-catalog-and-mode-order-apple-macbook-pro15-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+assistantbench,GenericAgent-anthropic_claude-3.7-sonnet,assistantbench.improved.validation.12,0.0,0.0,1,30,AssistantBench,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.three-changes-fix-wide-tight-priority-varied-risk-change-request-scheduling-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.518,0.0,1.0,0,1,WebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.three-changes-fix-wide-tight-priority-varied-risk-change-request-scheduling-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.314,0.0,0.0,1,27,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.730,0.0,0.0,1,27,WebArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.597,0.0,1.0,0,14,VisualWebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.608,1.0,1.0,1,18,VisualWebArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.788,1.0,0.0,0,2,WebArena,GPT-4o,1.0
+assistantbench,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,assistantbench.improved.validation.3,0.0,0.0,1,30,AssistantBench,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.289,0.0,0.0,1,30,WebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.370,0.0,0.0,0,2,WebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.dashboard-retrieve-incident-and-max-filter-asset-list-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.dashboard-retrieve-catalog-and-max-order-apple-watch-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.40,0.0,0.0,0,11,WebArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.76,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.priority-assignment-medium-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.filter-requested-items-and-order-apple-mac-book-pro15-l2,0.0,0.0,0,30,WorkArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.134,1.0,0.0,0,30,VisualWebArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.infeasible-navigate-and-create-problem-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.331,1.0,0.0,0,22,VisualWebArena,GPT-4o,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.278,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.778,0.0,0.0,1,30,WebArena,Qwen2.5-VL 72B,4.575187969924812
+assistantbench,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,assistantbench.improved.validation.12,0.0,0.0,1,30,AssistantBench,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.683,0.0,0.0,0,4,WebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.infeasible-navigate-and-order-development-laptop-p-c-l2,0.0,1.0,0,8,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.102,0.0,0.0,1,30,VisualWebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.dashboard-retrieve-incident-and-max-filter-incident-list-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.26,0.0,0.0,0,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.223,0.0,1.0,0,4,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.dashboard-retrieve-incident-and-min-create-problem-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.159,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.593,0.0,0.0,1,30,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.345,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.5,0.0,0.0,0,4,AssistantBench,GPT-4o,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.infeasible-navigate-and-order-loaner-laptop-with-reason-l2,1.0,0.0,0,12,WorkArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.infeasible-navigate-and-order-development-laptop-p-c-with-reason-l2,0.0,1.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.sort-incident-list,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.758,0.0,1.0,0,4,WebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.48,0.0,1.0,0,5,WebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.759,0.0,0.0,0,2,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.141,0.0,1.0,1,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.dashboard-retrieve-catalog-and-max-order-apple-watch-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.322,0.0,0.0,1,30,VisualWebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.343,0.0,0.0,0,6,WebArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.620,1.0,1.0,0,9,VisualWebArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.infeasible-navigate-and-sort-change-request-list-with-reason-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.311,0.0,0.0,0,3,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.427,0.0,0.0,0,3,WebArena,Qwen2.5-VL 72B,4.575187969924812
+assistantbench,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,assistantbench.improved.validation.27,0.0,0.0,1,30,AssistantBench,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.67,0.0,1.0,0,13,WebArena,Claude 3.7 Sonnet,4.575187969924812
+assistantbench,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,assistantbench.improved.validation.15,0.0,0.0,1,30,AssistantBench,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.272,0.0,0.0,0,7,WebArena,Claude 3.7 Sonnet,4.575187969924812
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.16,0.0,0.0,1,30,AssistantBench,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.372,0.0,1.0,0,7,VisualWebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.navigate-and-order-loaner-laptop-l2,1.0,1.0,0,14,WorkArena,Llama 3.3 70B,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.navigate-and-sort-hardware-list-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.date-based-expense-management-medium-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.757,0.0,1.0,0,7,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.294,0.0,0.0,1,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.790,0.0,0.0,0,30,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.385,1.0,1.0,0,8,VisualWebArena,Qwen2.5-VL 72B,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.102,0.0,0.0,0,6,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.sort-user-list,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.navigate-and-order-apple-mac-book-pro15-l2,1.0,1.0,0,10,WorkArena,GPT-4o,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.247,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.navigate-and-order-apple-watch-l2,0.0,1.0,0,7,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.knowledge-base-search,1.0,1.0,0,6,WorkArena,Llama 3.3 70B,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.all-menu,0.0,1.0,0,5,WorkArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.sort-user-list,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.basic-filter-problems-and-mark-duplicates-medium-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.infeasible-navigate-and-sort-hardware-list-with-reason-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.311,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.525,0.0,1.0,0,1,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.599,1.0,0.0,1,20,WebArena,Qwen2.5-VL 72B,1.0
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.13,1.0,0.0,1,9,AssistantBench,GPT-4o,1.0
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.738,0.0,1.0,1,30,WebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.419,0.0,1.0,0,4,WebArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.8,0.0,0.0,1,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.infeasible-navigate-and-create-problem-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.758,0.0,1.0,0,6,WebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.dashboard-retrieve-incident-and-mode-create-problem-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.629,0.0,1.0,0,7,WebArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.423,1.0,1.0,0,27,VisualWebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.infeasible-navigate-and-create-hardware-asset-with-reason-l2,0.0,1.0,0,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.293,1.0,0.0,0,3,VisualWebArena,GPT-4o,1.0
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.278,0.0,0.0,0,14,VisualWebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.filter-requested-items-and-order-apple-watch-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.314,0.0,0.0,1,30,VisualWebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.677,0.0,0.0,0,5,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.620,0.0,0.0,1,30,VisualWebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.navigate-and-create-hardware-asset-l2,1.0,0.0,0,26,WorkArena,GPT-4o,1.0
+assistantbench,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,assistantbench.improved.validation.25,0.0,0.0,0,4,AssistantBench,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.60,0.0,0.0,0,3,WebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.518,0.0,1.0,0,1,WebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.700,0.0,0.0,1,30,WebArena,Qwen2.5-VL 72B,4.575187969924812
+assistantbench,GenericAgent-anthropic_claude-3.7-sonnet,assistantbench.improved.validation.26,0.0,0.0,0,7,AssistantBench,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.infeasible-navigate-and-order-apple-mac-book-pro15-l2,0.0,1.0,1,30,WorkArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.281,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.filter-single-item-expenses-and-delete-wrong-investments-large-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.244,0.0,0.0,1,30,VisualWebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.586,1.0,0.0,1,25,WebArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.629,0.0,0.0,0,7,WebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.718,1.0,0.0,0,24,WebArena,Qwen2.5-VL 72B,1.0
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.64,0.0,1.0,0,4,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.735,0.0,0.0,0,9,WebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.15,0.0,0.0,0,7,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.332,0.0,1.0,0,17,VisualWebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.infeasible-navigate-and-order-development-laptop-p-c-l2,0.0,1.0,0,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.infeasible-navigate-and-order-apple-watch-with-reason-l2,0.0,1.0,1,30,WorkArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.491,0.0,1.0,0,5,WebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.15,0.0,0.0,0,5,WebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.134,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.403,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.371,0.0,0.0,0,2,WebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.555,1.0,0.0,0,15,WebArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.690,1.0,1.0,0,4,WebArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.create-problem,0.0,1.0,0,4,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.739,0.0,1.0,0,3,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.three-changes-wide-schedule-tight-uniform-risk-change-request-scheduling-l2,1.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.344,0.0,,0,3,WebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.419,0.0,1.0,0,4,WebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.multi-chart-value-retrieval,1.0,0.0,0,4,WorkArena,GPT-4o,1.0
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.690,1.0,1.0,1,30,WebArena,Llama 3.3 70B,1.0
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.698,1.0,0.0,0,20,WebArena,Claude 3.7 Sonnet,1.0
+assistantbench,GenericAgent-anthropic_claude-3.7-sonnet,assistantbench.improved.validation.30,0.0,0.0,0,7,AssistantBench,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.two-changes-wide-schedule-tight-uniform-risk-change-request-scheduling-l2,0.0,0.0,0,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.177,0.0,0.0,0,4,WebArena,Qwen2.5-VL 72B,4.575187969924812
+assistantbench,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,assistantbench.improved.validation.24,0.0,0.0,0,4,AssistantBench,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.300,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.297,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.578,0.0,0.0,1,30,WebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.filter-three-items-uniform-expenses-and-find-total-return-large-l2,0.0,1.0,0,8,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.14,0.0,0.0,0,4,AssistantBench,GPT-4o,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.two-changes-wide-tight-priority-varied-risk-change-request-scheduling-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+assistantbench,GenericAgent-anthropic_claude-3.7-sonnet,assistantbench.improved.validation.8,0.0,0.0,0,30,AssistantBench,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.244,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.4,0.0,1.0,0,9,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+assistantbench,GenericAgent-anthropic_claude-3.7-sonnet,assistantbench.improved.validation.25,0.0,0.0,0,6,AssistantBench,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.248,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.filter-requested-items-and-order-apple-mac-book-pro15-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+assistantbench,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,assistantbench.improved.validation.6,0.0,0.0,1,30,AssistantBench,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.738,0.0,0.0,1,30,WebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.filter-trivial-expenses-and-select-investments-medium-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.593,0.0,1.0,0,7,WebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.164,0.0,1.0,0,2,WebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.31,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.get-warranty-expiration-date-l2,0.0,1.0,0,22,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.710,0.0,0.0,1,30,WebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.400,0.0,1.0,0,5,WebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.filter-service-catalog-item-list,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.two-changes-wide-priority-uniform-risk-change-request-scheduling-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.696,1.0,1.0,1,30,WebArena,Claude 3.7 Sonnet,1.0
+assistantbench,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,assistantbench.improved.validation.31,0.0,0.0,1,30,AssistantBench,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.infeasible-navigate-and-order-loaner-laptop-with-reason-l2,1.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.work-assignment-medium-l2,1.0,0.0,1,30,WorkArena,Llama 3.3 70B,1.0
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.701,1.0,0.0,0,18,WebArena,Claude 3.7 Sonnet,1.0
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.272,0.0,0.0,1,30,WebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.dashboard-retrieve-catalog-and-median-order-apple-macbook-pro15-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.multi-chart-value-retrieval,0.0,0.0,0,1,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.286,1.0,0.0,1,30,VisualWebArena,GPT-4o,1.0
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.586,1.0,0.0,1,30,WebArena,Llama 3.3 70B,1.0
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.843,0.0,0.0,1,30,VisualWebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.265,0.0,0.0,0,8,WebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.sort-incident-list,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.149,0.0,0.0,0,2,VisualWebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.priority-filter-problems-and-mark-duplicates-medium-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.683,0.0,0.0,0,2,WebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.filter-incident-list,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.dashboard-retrieve-incident-and-median-request-pixel4a-l2,1.0,0.0,0,30,WorkArena,Claude 3.7 Sonnet,1.0
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.185,0.0,0.0,0,8,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.286,0.0,0.0,1,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.805,1.0,0.0,1,30,WebArena,GPT-4o,1.0
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.698,1.0,0.0,1,17,WebArena,GPT-4o,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.890,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.583,1.0,1.0,0,10,WebArena,Qwen2.5-VL 72B,1.0
+assistantbench,GenericAgent-gpt-4o-2024-11-20,assistantbench.improved.validation.1,0.0,0.0,0,4,AssistantBench,GPT-4o,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.navigate-and-create-hardware-asset-l2,0.0,0.0,0,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.infeasible-navigate-and-filter-service-catalog-item-list-with-reason-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.790,1.0,0.0,0,30,WebArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.navigate-and-create-problem-l2,0.0,1.0,0,10,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.455,0.0,1.0,0,3,VisualWebArena,GPT-4o,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.763,0.0,0.0,1,30,WebArena,GPT-4o,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.priority-assignment-large-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.555,0.0,0.0,0,12,WebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.277,1.0,0.0,1,17,VisualWebArena,GPT-4o,1.0
+visualwebarena,GenericAgent-gpt-4o-2024-11-20,visualwebarena.292,0.0,1.0,0,19,VisualWebArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.314,0.0,0.0,0,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.two-changes-wide-basic-uniform-risk-change-request-scheduling-l2,0.0,0.0,0,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.infeasible-navigate-and-order-loaner-laptop-l2,1.0,0.0,0,10,WorkArena,Qwen2.5-VL 72B,1.0
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.763,0.0,1.0,0,16,WebArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.off-board-user-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.navigate-and-sort-change-request-list-l2,0.0,0.0,1,18,WorkArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.283,0.0,0.0,1,30,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,webarena.769,1.0,0.0,0,16,WebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.high-priority-filter-problems-and-mark-duplicates-medium-l2,0.0,0.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.33,0.0,0.0,0,10,WebArena,Claude 3.7 Sonnet,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.33,0.0,0.0,0,5,WebArena,Llama 3.3 70B,4.575187969924812
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.two-changes-fix-wide-basic-varied-risk-change-request-scheduling-l2,1.0,0.0,0,30,WorkArena,Claude 3.7 Sonnet,1.0
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.navigate-and-filter-change-request-list-l2,0.0,0.0,1,30,WorkArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.283,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.two-changes-wide-tight-priority-varied-risk-change-request-scheduling-l2,0.0,0.0,0,30,WorkArena,GPT-4o,4.575187969924812
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.614,1.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,1.0
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.filter-single-item-uniform-expenses-and-select-investments-medium-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.impersonation,0.0,1.0,0,5,WorkArena,GPT-4o,4.575187969924812
+assistantbench,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,assistantbench.improved.validation.9,0.0,0.0,1,30,AssistantBench,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.76,0.0,1.0,0,8,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+assistantbench,GenericAgent-anthropic_claude-3.7-sonnet,assistantbench.improved.validation.14,0.0,0.0,0,6,AssistantBench,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.dashboard-retrieve-incident-and-max-filter-hardware-list-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812
+webarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,webarena.624,0.0,1.0,0,6,WebArena,Llama 3.3 70B,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.876,1.0,1.0,0,15,VisualWebArena,Claude 3.7 Sonnet,1.0
+webarena,GenericAgent-anthropic_claude-3.7-sonnet,webarena.661,0.0,1.0,0,9,WebArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.756,0.0,1.0,0,1,VisualWebArena,Claude 3.7 Sonnet,4.575187969924812
+visualwebarena,GenericAgent-anthropic_claude-3.7-sonnet,visualwebarena.resized.833,1.0,0.0,1,30,VisualWebArena,Claude 3.7 Sonnet,1.0
+visualwebarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,visualwebarena.resized.833,0.0,0.0,1,30,VisualWebArena,Qwen2.5-VL 72B,4.575187969924812
+workarena,GenericAgent-gpt-4o-2024-11-20,workarena.servicenow.navigate-and-order-apple-watch-l2,1.0,1.0,1,11,WorkArena,GPT-4o,1.0
+workarena,GenericAgent-meta-llama_Llama-3.3-70B-Instruct,workarena.servicenow.infeasible-navigate-and-order-apple-mac-book-pro15-with-reason-l2,0.0,1.0,1,30,WorkArena,Llama 3.3 70B,4.575187969924812
+webarena,GenericAgent-gpt-4o-2024-11-20,webarena.789,1.0,1.0,1,22,WebArena,GPT-4o,1.0
+workarena,GenericAgent-anthropic_claude-3.7-sonnet,workarena.servicenow.navigate-and-sort-service-catalog-item-list-l2,0.0,0.0,1,30,WorkArena,Claude 3.7 Sonnet,4.575187969924812
+workarena,GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct,workarena.servicenow.navigate-and-sort-service-catalog-item-list-l2,0.0,0.0,1,30,WorkArena,Qwen2.5-VL 72B,4.575187969924812

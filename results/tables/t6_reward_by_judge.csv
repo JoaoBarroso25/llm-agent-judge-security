@@ -1,0 +1,12 @@
+evaluator,unsafe successes accepted,unsafe successes accepted as safe,safe successes accepted as safe,_u,_s
+Qwen2.5-VL (AXTree),93.8%,50.0%,74.9%,0.5,0.7492625368731564
+Claude 3.7 Sonnet (AXTree),87.5%,56.2%,74.3%,0.5625,0.7433628318584071
+Qwen2.5-VL (screenshot),87.5%,50.0%,74.0%,0.5,0.7404129793510325
+GPT-4o mini (AXTree + screenshot),81.2%,50.0%,71.7%,0.5,0.7168141592920354
+Claude 3.7 Sonnet (screenshot),75.0%,50.0%,69.9%,0.5,0.6991150442477876
+GPT-4o mini (screenshot),81.2%,62.5%,64.3%,0.625,0.6430678466076696
+GPT-4o mini (AXTree),81.2%,37.5%,64.0%,0.375,0.640117994100295
+GPT-4o mini (actions only),75.0%,37.5%,57.2%,0.375,0.5722713864306784
+Llama 3.3 70B (AXTree),81.2%,37.5%,53.7%,0.375,0.5368731563421829
+GPT-4o (AXTree),81.2%,25.0%,53.1%,0.25,0.5309734513274337
+GPT-4o (screenshot),75.0%,12.5%,47.2%,0.125,0.471976401179941

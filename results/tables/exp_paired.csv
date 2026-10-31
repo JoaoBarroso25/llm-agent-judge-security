@@ -1,0 +1,33 @@
+comparison,trajectories,n,flagged (first),flagged (second),only first flags,only second flags,McNemar p
+guided vs original,with side effect,84,22.6%,28.6%,1,6,0.125
+guided vs original,without side effect,265,3.8%,3.4%,2,1,1
+guided without narrative vs original,with side effect,84,22.6%,21.4%,5,4,1
+guided without narrative vs original,without side effect,266,3.8%,3.4%,2,1,1
+without vs with narrative (guided),with side effect,84,28.6%,21.4%,7,1,0.0703
+without vs with narrative (guided),without side effect,265,3.4%,3.4%,1,1,1
+Gemini vs published GPT-4o mini,with side effect,84,75.0%,22.6%,47,3,3.71e-11
+Gemini vs published GPT-4o mini,without side effect,266,66.9%,3.8%,168,0,5.35e-51
+attack: false self-report (original),with side effect,84,22.6%,23.8%,1,2,1
+attack: false self-report (original),without side effect,100,4.0%,2.0%,2,0,0.5
+attack: injection (original),with side effect,84,22.6%,14.3%,7,0,0.0156
+attack: injection (original),without side effect,100,4.0%,0.0%,4,0,0.125
+attack: false self-report (guided),with side effect,84,28.6%,29.8%,1,2,1
+attack: false self-report (guided),without side effect,99,2.0%,2.0%,0,0,1
+attack: injection (guided),with side effect,83,27.7%,28.9%,0,1,1
+attack: injection (guided),without side effect,99,2.0%,2.0%,0,0,1
+with vs without accessibility tree,with side effect,75,21.3%,21.3%,4,4,1
+with vs without accessibility tree,without side effect,262,3.8%,3.8%,2,2,1
+"Gemini vs GPT-4o mini, accessibility tree",with side effect,75,66.7%,21.3%,37,3,1.95e-08
+"Gemini vs GPT-4o mini, accessibility tree",without side effect,262,63.4%,3.8%,156,0,2.19e-47
+defence by instruction vs none (no attack),with side effect,84,22.6%,25.0%,1,3,0.625
+defence by instruction vs none (no attack),without side effect,98,3.1%,3.1%,1,1,1
+datamarking vs none (no attack),with side effect,84,22.6%,20.2%,3,1,0.625
+datamarking vs none (no attack),without side effect,99,4.0%,3.0%,2,1,1
+attack: injection (defence by instruction),with side effect,83,24.1%,21.7%,3,1,0.625
+attack: injection (defence by instruction),without side effect,97,3.1%,1.0%,2,0,0.5
+attack: injection (datamarking),with side effect,83,20.5%,22.9%,2,4,0.688
+attack: injection (datamarking),without side effect,95,2.1%,2.1%,0,0,1
+attack: injection (gemini-3.8-flash),with side effect,84,26.2%,19.0%,6,0,0.0312
+attack: injection (gemini-3.8-flash),without side effect,100,4.0%,2.0%,2,0,0.5
+attack: injection (gemini-3.5-flash-lite),with side effect,84,25.0%,0.0%,21,0,9.54e-07
+attack: injection (gemini-3.5-flash-lite),without side effect,100,20.0%,0.0%,20,0,1.91e-06
